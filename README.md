@@ -11,7 +11,7 @@ A simple web page that fetches and displays a random fact from a public API when
 
 ## 🌐 Demo
 
-[Live Demo](https://yogotribe-frontend-eta.vercel.app/) *(Add your GitHub Pages or Vercel/Netlify link here)*
+[Live Demo](https://yogotribe-frontend-eta.vercel.app/) 
 
 ## 📦 Technologies Used
 
