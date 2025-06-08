@@ -11,7 +11,7 @@ A simple web page that fetches and displays a random fact from a public API when
 
 ## 🌐 Demo
 
-[Live Demo](#) *(Add your GitHub Pages or Vercel/Netlify link here)*
+[Live Demo](https://yogotribe-frontend-eta.vercel.app/) *(Add your GitHub Pages or Vercel/Netlify link here)*
 
 ## 📦 Technologies Used
 
@@ -25,4 +25,4 @@ A simple web page that fetches and displays a random fact from a public API when
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/random-fact-fetcher.git
-   cd random-fact-fetcher
+   cd yogotribe-frontend
