@@ -24,5 +24,5 @@ A simple web page that fetches and displays a random fact from a public API when
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/random-fact-fetcher.git](https://github.com/Krishnapc04/yogotribe-frontend.git)
+   git clone https://github.com/Krishnapc04/yogotribe-frontend.git
    cd yogotribe-frontend
